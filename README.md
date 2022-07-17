@@ -1,0 +1,2 @@
+# obid
+githubni o'rganamiz
